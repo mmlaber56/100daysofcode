@@ -1,0 +1,21 @@
+General Goals
+I want to practice coding an hour a day for 100 days
+I want to work on skills that my employer won't pay me to learn
+I want to build some original projects that I can show to a future employer
+
+
+
+
+Programming Languages 
+PHP - PDO
+Javascript - 
+HTML - layout a basic page,
+CSS - style a page,
+
+Software
+
+
+Tools that I want to learn
+vim - install plugins and get more effecient
+github - use github for version control and collaberation
+
