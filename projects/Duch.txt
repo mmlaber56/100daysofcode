@@ -1,0 +1,18 @@
+Main idea
+
+make an app that allows a user to track multiple goals every day and display their progress
+
+Challanges
+- the daily options will be limited by the sql table(i.e. users will not be able to have their own unique columns.)
+
+login page to sign up with google or own user name
+Html page 
+- insert data for any date
+- edit data
+- view an overview of the week
+(MySQL Database to store the data)
+
+
+
+
+
