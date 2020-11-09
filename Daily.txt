@@ -1,0 +1,3 @@
+Day 1
+Installed vim on my windows machine
+Created a new github repository
