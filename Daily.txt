@@ -1,3 +1,7 @@
 Day 1
 Installed vim on my windows machine
 Created a new github repository
+Day 2 
+decided on a database structure for my app
+wrote an html page for the weekly view
+

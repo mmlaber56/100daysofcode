@@ -4,6 +4,7 @@ make an app that allows a user to track multiple goals every day and display the
 
 Challanges
 - the daily options will be limited by the sql table(i.e. users will not be able to have their own unique columns.)
+-how to organize the data for each user. Should each user have an entry for each day or for each event.
 
 login page to sign up with google or own user name
 Html page 
@@ -13,6 +14,15 @@ Html page
 (MySQL Database to store the data)
 
 
+- build static html pages for inserting data, editing data and viewing a full week
 
+MySQL columns
+2 count each, 
+Sleep,Chassidus,Nigla,Night Chassidus,Work and Programming
+each one needs a start and end time for a total of 10 columns
+Shachris only has a start time. 
+only the both the Sleep needs to be a datetime the other one can be 
+Entertainment is a time data type
 
+each event has an id,user_id,event_type,datetime_start,datetime_end
 
