@@ -4,4 +4,5 @@ Created a new github repository
 Day 2 
 decided on a database structure for my app
 wrote an html page for the weekly view
+Day 3
 
