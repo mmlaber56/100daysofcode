@@ -6,3 +6,6 @@ decided on a database structure for my app
 wrote an html page for the weekly view
 Day 3
 
+Day 4
+modifing a laravel project
+
